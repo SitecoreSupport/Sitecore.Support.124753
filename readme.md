@@ -2,7 +2,8 @@
 Enable possibility to show raw values of fields in the Control Properties dialog box
 
 ## Description
-This patch enables possibility to show raw values of fields in the Control Properties dialog box
+Raw values of fields in the `Control Properties` dialog box are not shown when the `Raw values` option is selected in the `View` tab of `Content Editor`.
+The issue is not reproduced in Sitecore CMS 7.5 and older.
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.124753/blob/master/LICENSE).  
