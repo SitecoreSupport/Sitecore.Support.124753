@@ -1,5 +1,5 @@
 # Sitecore.Support.124753
-Enable possibility to show raw values of fields in the `Control Properties` dialog box
+Enables possibility to show raw values of fields in the `Control Properties` dialog box
 
 ## Description
 Raw values of fields in the `Control Properties` dialog box are not shown when the `Raw values` option is selected in the `View` tab of `Content Editor`.
